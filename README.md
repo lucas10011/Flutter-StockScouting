@@ -22,7 +22,7 @@ Resultado obtido com base na valorização e desvalorização da ação com base
 </p>
 
 ## Visualização da Sazonalidade
-Valorizaçao e desvalorizaçao percentual das açoes de cada mês dos ultimos anos
+Valorização e desvalorizaçao percentual das açoes de cada mês dos ultimos anos
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/919779048849293383/930176339489746974/unknown.png" width="350" alt="accessibility text">
 </p>
