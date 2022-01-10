@@ -1,6 +1,11 @@
 # Aplicativo de backtesting em ações
 Desenvolvimento de um projeto utilizando flutter para análise de ações utilizando conjunto de dados e indicadores
 
+<a href="https://play.google.com/store/apps/details?id=com.boss.scouting"> 
+  <img src="https://iconape.com/wp-content/png_logo_vector/get-it-on-google-play-badge-logo.png" width="200" alt="accessibility text">
+</a>
+
+
 ## Lista das ações
 Lista contendo as ações do BOV
 <p align="center">
