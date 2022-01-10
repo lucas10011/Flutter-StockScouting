@@ -13,7 +13,7 @@ Lista contendo as ações do BOV
 </p>
 
 ## Configuração dos indicadores
-Utilização dos indicadores e configuração dos parametros para simulaçao de compra e venda no conjunto de dados
+Utilização dos indicadores e configuração dos parametros para simulação de compra e venda no conjunto de dados
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/919779048849293383/930176133511676025/unnamed_1.webp" width="350" alt="accessibility text">
   <img src="https://cdn.discordapp.com/attachments/919779048849293383/930176133729767484/unnamed_2.webp" width="350" alt="accessibility text">
